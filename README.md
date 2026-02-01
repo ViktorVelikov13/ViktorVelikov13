@@ -94,8 +94,8 @@ Node.js · TypeScript · npm ecosystem
 > Most of my development work happens in **private repositories**,  
 > but I actively build, experiment, and iterate across frontend and backend projects.
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViktorVelikov13&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViktorVelikov13&layout=compact&theme=github_dark&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktorVelikov13&theme=github_dark)
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViktorVelikov13&layout=compact&theme=github_dark&hide_border=true) -->
 
 ---
 
